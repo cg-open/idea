@@ -1,8 +1,21 @@
 {
-	"folders": [
-		{
-			"path": "idea-graph"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "idea-graph",
+      "name": "graph"
+    },
+    {
+      "path": "idea-web",
+      "name": "web"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.endOfLine": "lf",
+    "files.insertFinalNewline": true
+  }
 }
