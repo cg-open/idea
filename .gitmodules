@@ -1,0 +1,3 @@
+[submodule "idea-graph"]
+	path = idea-graph
+	url = git@github.com:CastelloDev/idea-graph.git
