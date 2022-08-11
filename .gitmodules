@@ -1,6 +1,6 @@
 [submodule "idea-graph"]
 	path = idea-graph
-	url = git@github.com:CastelloDev/idea-graph.git
+	url = git@github.com:cg-open/idea-graph.git
 [submodule "idea-web"]
 	path = idea-web
-	url = git@github.com:CastelloDev/idea-web.git
+	url = git@github.com:cg-open/idea-web.git
